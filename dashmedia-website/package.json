@@ -1,0 +1,6 @@
+{
+  "name": "dashmedia-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dash Media marketing site (static) with a Vercel serverless function that relays contact form leads to GoHighLevel."
+}
